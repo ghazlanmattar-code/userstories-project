@@ -45,3 +45,19 @@
    As a user, I want to view related items on the detail screen so that I can explore more options.  
    - Example: A travel app detail screen for a hotel shows nearby attractions and alternative hotels.  
    - Why: Enhances user experience by offering contextual suggestions.  
+# Persistent Data User Stories
+
+1. **Login State Persistence**  
+   As a user, I want my login state to persist across sessions so that I don’t need to re-enter my details every time.  
+   - Example: A banking app automatically logs in verified users unless they log out manually.  
+   - Why: Saves time and provides seamless access.  
+
+2. **Save User Preferences**  
+   As a user, I want to save my preferences (such as dark mode) so that the app remembers my settings.  
+   - Example: A news app remembers the user’s preferred language and font size across sessions.  
+   - Why: Improves accessibility and user satisfaction.  
+
+3. **Activity Log Persistence**  
+   As an admin, I want user activity logs to persist so that I can track and analyze trends over time.  
+   - Example: An educational app stores quiz performance to generate progress reports.  
+   - Why: Enables long-term data analysis and user retention strategies.  
