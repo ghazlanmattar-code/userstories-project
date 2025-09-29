@@ -109,3 +109,24 @@
    As a user, I want to update my email and password on the settings screen so that I can keep my account secure.  
    - Example: A social media app includes an Account Settings section for updating credentials.  
    - Why: Ensures security and user satisfaction.
+# Notifications User Stories
+
+1. **Daily Reminder**  
+   As a user, I want to receive a daily reminder notification so that I don’t forget to complete my tasks.  
+   - Example: A productivity app sends a push notification at 9 AM reminding users to review their to-do list.  
+   - Why: Encourages consistent app usage.  
+
+2. **New Feature Alerts**  
+   As a user, I want to receive notifications about new features so that I can explore and benefit from them.  
+   - Example: A streaming app notifies users when new movies are added in their favorite genre.  
+   - Why: Drives engagement and satisfaction.  
+
+3. **Turn Off Promotional Notifications**  
+   As a user, I want to turn off promotional notifications so that I can focus on essential updates only.  
+   - Example: A shopping app provides a settings option to disable promotional alerts but keep order updates active.  
+   - Why: Reduces user frustration and retains trust.  
+
+4. **Admin Targeted Notifications**  
+   As an admin, I want to send notifications to specific user groups so that I can target them with relevant information.  
+   - Example: A fitness app admin sends a notification about a new yoga module to users who completed the beginner course.  
+   - Why: Enhances targeted communication and user engagement.
