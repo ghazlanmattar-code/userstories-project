@@ -93,3 +93,19 @@
    As a user, I want to select my preferred language from the settings menu so that I can use the app in my native language.  
    - Example: A travel app offers English, Arabic, French, and Spanish language options.  
    - Why: Enhances usability for global audiences.  
+# Settings Screen User Stories
+
+1. **Enable Dark Mode**  
+   As a user, I want to enable dark mode in the settings screen so that I can reduce eye strain during nighttime usage.  
+   - Example: A reading app offers a toggle for dark mode under the Appearance section.  
+   - Why: Improves accessibility and user comfort.  
+
+2. **Adjust Notification Preferences**  
+   As a user, I want to adjust notification preferences so that I only receive alerts relevant to me.  
+   - Example: A news app allows users to turn on notifications for specific categories like sports or finance.  
+   - Why: Personalized notifications prevent annoyance and keep users engaged.  
+
+3. **Update Email and Password**  
+   As a user, I want to update my email and password on the settings screen so that I can keep my account secure.  
+   - Example: A social media app includes an Account Settings section for updating credentials.  
+   - Why: Ensures security and user satisfaction.
