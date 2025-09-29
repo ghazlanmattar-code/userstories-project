@@ -77,3 +77,19 @@
    As a user, I want to see nearby restaurants on a map so that I can choose a dining location conveniently.  
    - Example: A food delivery app integrates Google Maps API to display restaurants near the user’s location.  
    - Why: Enhances navigation and helps users make better choices.  
+# Settings Menu User Stories
+
+1. **Change Theme (Dark/Light Mode)**  
+   As a user, I want to switch between dark mode and light mode in the settings menu so that I can use the app comfortably in different lighting conditions.  
+   - Example: A reading app allows users to toggle between light and dark themes.  
+   - Why: Improves accessibility and reduces eye strain.  
+
+2. **Manage Notifications**  
+   As a user, I want to enable or disable notifications from the settings menu so that I can control when and how I receive alerts.  
+   - Example: A social media app lets users mute push notifications during certain hours.  
+   - Why: Gives users control over interruptions.  
+
+3. **Language Preferences**  
+   As a user, I want to select my preferred language from the settings menu so that I can use the app in my native language.  
+   - Example: A travel app offers English, Arabic, French, and Spanish language options.  
+   - Why: Enhances usability for global audiences.  
