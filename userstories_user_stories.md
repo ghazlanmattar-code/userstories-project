@@ -29,3 +29,19 @@
    As a user, I want to access my most-used features from the home screen so that I can navigate the app efficiently.  
    - Example: An e-commerce app shows shortcuts to Track Orders, Saved Items, and Browse Categories.  
    - Why: Improves user experience by reducing clicks for common actions.  
+# Detail Screen User Stories
+
+1. **View Detailed Information**  
+   As a user, I want detailed information on a selected item so that I can make informed decisions.  
+   - Example: An e-commerce app shows product images, specifications, reviews, and price on the detail screen.  
+   - Why: Helps users evaluate items before adding them to the cart.  
+
+2. **Perform Actions (Save/Share)**  
+   As a user, I want to perform actions like saving or sharing an item from the detail screen so that I can share interesting content.  
+   - Example: A recipe app detail screen lets users save recipes to favorites or share them on social media.  
+   - Why: Encourages interaction and sharing.  
+
+3. **View Related Items**  
+   As a user, I want to view related items on the detail screen so that I can explore more options.  
+   - Example: A travel app detail screen for a hotel shows nearby attractions and alternative hotels.  
+   - Why: Enhances user experience by offering contextual suggestions.  
