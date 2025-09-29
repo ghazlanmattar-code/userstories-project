@@ -130,3 +130,24 @@
    As an admin, I want to send notifications to specific user groups so that I can target them with relevant information.  
    - Example: A fitness app admin sends a notification about a new yoga module to users who completed the beginner course.  
    - Why: Enhances targeted communication and user engagement.
+# Additional Examples for Other Applications
+
+## Social Media App
+1. As a new user, I want to create an account so that I can start sharing content with others.  
+2. As a regular user, I want to customize my profile so that I can express my personality.  
+3. As an admin, I want to moderate posts flagged as inappropriate so that the platform remains safe for all users.  
+
+## Banking App
+1. As a customer, I want to view my transaction history so that I can track my spending.  
+2. As a bank manager, I want to see a summary of high-value transactions so that I can monitor potential fraud.  
+3. As a customer, I want to set up recurring transfers so that I can automate monthly bill payments.  
+
+## Educational App
+1. As a student, I want to access video lectures so that I can learn topics at my own pace.  
+2. As a teacher, I want to assign homework to students so that they can practice what they’ve learned.  
+3. As an admin, I want to track course completion rates so that I can identify popular courses.  
+
+## Travel Booking App
+1. As a traveler, I want to filter hotels by price so that I can find accommodation within my budget.  
+2. As a travel agent, I want to manage customer bookings so that I can offer personalized support.  
+3. As an admin, I want to analyze peak booking times so that we can prepare for increased demand.
