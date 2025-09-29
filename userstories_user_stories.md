@@ -61,3 +61,19 @@
    As an admin, I want user activity logs to persist so that I can track and analyze trends over time.  
    - Example: An educational app stores quiz performance to generate progress reports.  
    - Why: Enables long-term data analysis and user retention strategies.  
+# External API User Stories
+
+1. **Real-Time Weather Updates**  
+   As a user, I want to view real-time weather updates on the home screen so that I can plan my day effectively.  
+   - Example: A fitness app integrates a weather API to display whether it’s sunny or rainy, helping users decide if they should work out indoors or outdoors.  
+   - Why: Provides relevant external data, improving app value.  
+
+2. **Currency Conversion**  
+   As a user, I want to see live currency conversion rates when making purchases so that I can make informed financial decisions.  
+   - Example: An e-commerce app uses a currency exchange API to display product prices in the user’s preferred currency.  
+   - Why: Creates a personalized and convenient experience.  
+
+3. **Nearby Restaurants on Map**  
+   As a user, I want to see nearby restaurants on a map so that I can choose a dining location conveniently.  
+   - Example: A food delivery app integrates Google Maps API to display restaurants near the user’s location.  
+   - Why: Enhances navigation and helps users make better choices.  
